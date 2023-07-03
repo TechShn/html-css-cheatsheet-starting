@@ -1,0 +1,46 @@
+body {
+    background-color: lightgrey;
+    font-family:  Arial, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    border: 1px solid black;
+    background-color: lightgreen;
+}
+
+tr {
+    border: 1px solid black;
+    background-color: white;
+}
+
+td {
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#title-table {
+    background-color: darkolivegreen;
+    color: white;
+    font-weight: bold;
+}
+
+.order {
+    font-size: larger;
+    font-weight: bold;
+}
